@@ -92,10 +92,6 @@ public class Lugar extends AppCompatActivity {
             }
 
         });
-
-
-
-
     }
 
 }
