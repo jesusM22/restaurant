@@ -127,12 +127,7 @@ public class BorrarMenuAdapter extends BaseAdapter {
 
                 });
             }
-
         });
-
-
         return view;
     }
-
-
 }
