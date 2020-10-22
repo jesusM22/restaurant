@@ -11,12 +11,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        android:src="@drawable/chatarra" />
+         />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#d8000000"
+        android:background="#d80"
         android:gravity="center"
         android:orientation="vertical"
         tools:layout_editor_absoluteX="146dp"
